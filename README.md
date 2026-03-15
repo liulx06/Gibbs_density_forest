@@ -29,7 +29,7 @@ para[6] proportion of data for uncertainty quantification for each tree. For exa
 
 para[7] proportion of data for leaf node estimation given the tree structure. For example, if the proportion is 0.6, the sample size for leaf node estimation is para[0]*0.6
 
-para[8] start iteration (used to adjust the value of "iter", in order to conduct simulations in a parallel way, like running iterations 0 to 9, 10 to 19 simultaneously. To make the results reproducible, the random seed for generating data is "iter"-dependent)
+para[8] start iteration (used to adjust the value of "iter", in order to conduct simulations in a parallel way, like running iterations 0 to 9, 10 to 19 simultaneously. To make the results reproducible, the random seed for data generation is "iter"-dependent)
 
 para[9] number of trees within a forest
 
