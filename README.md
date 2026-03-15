@@ -19,7 +19,7 @@ para[1] output directory, should be a directory ending with "/"
 
 para[2] maximum number of leaf nodes for each tree
 
-para[3] number of samples drawn in the SIS algorithm to approximate the posterior distribution for one tree, under the OPT prior (can be other types of prior distributions as well under the generalized Bayesian framework)
+para[3] number of samples drawn in the SIS algorithm to approximate the posterior distribution for one tree, under the OPT prior (can be other types of prior distributions under the generalized Bayesian framework)
 
 para[4] test dataset size for estimating the KL divergence
 
