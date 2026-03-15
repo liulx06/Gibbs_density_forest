@@ -1,0 +1,2758 @@
+50000
+beta = 1
+Dim 2
+
+
+#i=0
+1973.06
+modelBP=0
+newmax level=2
+
+
+#i=1
+15198.9
+modelBP=1
+newmax level=3
+
+
+#i=2
+24345.3
+modelBP=0
+newmax level=4
+
+
+#i=3
+29884.2
+modelBP=20
+newmax level=5
+
+
+#i=4
+38751.5
+modelBP=0
+newmax level=6
+
+
+#i=5
+41773.7
+modelBP=0
+newmax level=7
+
+
+#i=6
+44745.6
+modelBP=37
+newmax level=8
+
+
+#i=7
+48350.9
+modelBP=20
+newmax level=9
+
+
+#i=8
+51373.3
+modelBP=2
+newmax level=10
+
+
+#i=9
+52433.1
+modelBP=4
+newmax level=11
+
+
+#i=10
+53439.7
+modelBP=4
+newmax level=12
+
+
+#i=11
+54440.7
+modelBP=4
+newmax level=13
+
+
+#i=12
+55369.4
+modelBP=2
+newmax level=14
+
+
+#i=13
+56010.1
+modelBP=2
+newmax level=15
+
+
+#i=14
+56632.9
+modelBP=2
+newmax level=16
+
+
+#i=15
+57257.9
+modelBP=2
+newmax level=17
+
+
+#i=16
+57739.1
+modelBP=0
+newmax level=18
+
+
+#i=17
+58144.4
+modelBP=0
+newmax level=19
+
+
+#i=18
+58538.1
+modelBP=0
+newmax level=20
+
+
+#i=19
+58895.6
+modelBP=0
+newmax level=21
+
+
+#i=20
+59240.1
+modelBP=0
+newmax level=22
+
+
+#i=21
+59563.8
+modelBP=0
+newmax level=23
+
+
+#i=22
+59882
+modelBP=0
+newmax level=24
+
+
+#i=23
+60165.6
+modelBP=56
+newmax level=25
+
+
+#i=24
+60483.8
+modelBP=0
+newmax level=26
+
+
+#i=25
+60762.7
+modelBP=1
+newmax level=27
+
+
+#i=26
+61039.8
+modelBP=36
+newmax level=28
+
+
+#i=27
+61318.7
+modelBP=1
+newmax level=29
+
+
+#i=28
+61533.9
+modelBP=0
+newmax level=30
+
+
+#i=29
+61728
+modelBP=3
+newmax level=31
+
+
+#i=30
+61911.7
+modelBP=0
+newmax level=32
+
+
+#i=31
+62081
+modelBP=0
+newmax level=33
+
+
+#i=32
+62215.4
+modelBP=1
+newmax level=34
+
+
+#i=33
+62349.1
+modelBP=1
+newmax level=35
+
+
+#i=34
+62475.7
+modelBP=1
+newmax level=36
+
+
+#i=35
+62600.6
+modelBP=1
+newmax level=37
+
+
+#i=36
+62722.7
+modelBP=2
+newmax level=38
+
+
+#i=37
+62827.1
+modelBP=2
+newmax level=39
+
+
+#i=38
+62930.4
+modelBP=2
+newmax level=40
+
+
+#i=39
+63021.3
+modelBP=2
+newmax level=41
+
+
+#i=40
+63109.6
+modelBP=5
+newmax level=42
+
+
+#i=41
+63196.3
+modelBP=9
+newmax level=43
+
+
+#i=42
+63282.1
+modelBP=5
+newmax level=44
+
+
+#i=43
+63351
+modelBP=5
+newmax level=45
+
+
+#i=44
+63415.4
+modelBP=34
+newmax level=46
+
+
+#i=45
+63479.5
+modelBP=29
+newmax level=47
+
+
+#i=46
+63539.9
+modelBP=21
+newmax level=48
+
+
+#i=47
+63596.5
+modelBP=40
+newmax level=49
+
+
+#i=48
+63653
+modelBP=55
+newmax level=50
+
+
+#i=49
+63709.3
+modelBP=16
+newmax level=51
+
+
+#i=50
+63762.4
+modelBP=16
+newmax level=52
+
+
+#i=51
+63813.7
+modelBP=27
+newmax level=53
+
+
+#i=52
+63859.3
+modelBP=1
+newmax level=54
+
+
+#i=53
+63910.9
+modelBP=189
+newmax level=55
+
+
+#i=54
+63956.6
+modelBP=189
+newmax level=56
+
+
+#i=55
+63993.4
+modelBP=189
+newmax level=57
+
+
+#i=56
+64030
+modelBP=2
+newmax level=58
+
+
+#i=57
+64065.9
+modelBP=0
+newmax level=59
+
+
+#i=58
+64098.5
+modelBP=0
+newmax level=60
+
+
+#i=59
+64131
+modelBP=5
+newmax level=61
+
+
+#i=60
+64162.7
+modelBP=8
+newmax level=62
+
+
+#i=61
+64192.6
+modelBP=10
+newmax level=63
+
+
+#i=62
+64222.1
+modelBP=3
+newmax level=64
+
+
+#i=63
+64251.5
+modelBP=30
+newmax level=65
+
+
+#i=64
+64280.5
+modelBP=6
+newmax level=66
+
+
+#i=65
+64309.3
+modelBP=9
+newmax level=67
+
+
+#i=66
+64338
+modelBP=20
+newmax level=68
+
+
+#i=67
+64366.3
+modelBP=0
+newmax level=69
+
+
+#i=68
+64393.4
+modelBP=2
+newmax level=70
+
+
+#i=69
+64418.7
+modelBP=2
+newmax level=71
+
+
+#i=70
+64443.2
+modelBP=13
+newmax level=72
+
+
+#i=71
+64467.3
+modelBP=27
+newmax level=73
+
+
+#i=72
+64491
+modelBP=11
+newmax level=74
+
+
+#i=73
+64513.4
+modelBP=56
+newmax level=75
+
+
+#i=74
+64535.5
+modelBP=11
+newmax level=76
+
+
+#i=75
+64554.7
+modelBP=65
+newmax level=77
+
+
+#i=76
+64573.7
+modelBP=103
+newmax level=78
+
+
+#i=77
+64592.7
+modelBP=193
+newmax level=79
+
+
+#i=78
+64611.4
+modelBP=141
+newmax level=80
+
+
+#i=79
+64629.5
+modelBP=47
+newmax level=81
+
+
+#i=80
+64646
+modelBP=189
+newmax level=82
+
+
+#i=81
+64662.5
+modelBP=191
+newmax level=83
+
+
+#i=82
+64678.7
+modelBP=173
+newmax level=84
+
+
+#i=83
+64694.8
+modelBP=16
+newmax level=85
+
+
+#i=84
+64711
+modelBP=133
+newmax level=86
+
+
+#i=85
+64769.1
+modelBP=34
+newmax level=87
+
+
+#i=86
+64770.3
+modelBP=34
+newmax level=88
+
+
+#i=87
+64814
+modelBP=34
+newmax level=89
+
+
+#i=88
+64831.8
+modelBP=1
+newmax level=90
+
+
+#i=89
+64848.4
+modelBP=6
+newmax level=91
+
+
+#i=90
+64863.5
+modelBP=8
+newmax level=92
+
+
+#i=91
+64877.7
+modelBP=16
+newmax level=93
+
+
+#i=92
+64891.5
+modelBP=6
+newmax level=94
+
+
+#i=93
+64905.3
+modelBP=62
+newmax level=95
+
+
+#i=94
+64918.6
+modelBP=10
+newmax level=96
+
+
+#i=95
+64931.9
+modelBP=0
+newmax level=97
+
+
+#i=96
+64945
+modelBP=2
+newmax level=98
+
+
+#i=97
+64958.3
+modelBP=26
+newmax level=99
+
+
+#i=98
+64971.4
+modelBP=1
+newmax level=100
+
+
+#i=99
+64983.6
+modelBP=7
+newmax level=101
+
+
+#i=100
+64994.9
+modelBP=5
+newmax level=102
+
+
+#i=101
+65005.5
+modelBP=10
+newmax level=103
+
+
+#i=102
+65015.9
+modelBP=16
+newmax level=104
+
+
+#i=103
+65026.1
+modelBP=2
+newmax level=105
+
+
+#i=104
+65035.7
+modelBP=40
+newmax level=106
+
+
+#i=105
+65045.1
+modelBP=40
+newmax level=107
+
+
+#i=106
+65053.9
+modelBP=40
+newmax level=108
+
+
+#i=107
+65062.7
+modelBP=35
+newmax level=109
+
+
+#i=108
+65071.3
+modelBP=180
+newmax level=110
+
+
+#i=109
+65079.9
+modelBP=47
+newmax level=111
+
+
+#i=110
+65088.1
+modelBP=131
+newmax level=112
+
+
+#i=111
+65096.1
+modelBP=15
+newmax level=113
+
+
+#i=112
+65104
+modelBP=134
+newmax level=114
+
+
+#i=113
+65112.1
+modelBP=63
+newmax level=115
+
+
+#i=114
+65119.6
+modelBP=63
+newmax level=116
+
+
+#i=115
+65126.8
+modelBP=3
+newmax level=117
+
+
+#i=116
+65134
+modelBP=11
+newmax level=118
+
+
+#i=117
+65140.1
+modelBP=148
+newmax level=119
+
+
+#i=118
+65147
+modelBP=124
+newmax level=120
+
+
+#i=119
+65153.6
+modelBP=152
+newmax level=121
+
+
+#i=120
+65159.7
+modelBP=10
+newmax level=122
+
+
+#i=121
+65165.4
+modelBP=102
+newmax level=123
+
+
+#i=122
+65171.3
+modelBP=82
+newmax level=124
+
+
+#i=123
+65176.9
+modelBP=82
+newmax level=125
+
+
+#i=124
+65182.2
+modelBP=148
+newmax level=126
+
+
+#i=125
+65185.7
+modelBP=54
+newmax level=127
+
+
+#i=126
+65191.8
+modelBP=30
+newmax level=128
+
+
+#i=127
+65208.9
+modelBP=55
+newmax level=129
+
+
+#i=128
+65220.7
+modelBP=5
+newmax level=130
+
+
+#i=129
+65233.2
+modelBP=35
+newmax level=131
+
+
+#i=130
+65252
+modelBP=35
+newmax level=132
+
+
+#i=131
+65263.8
+modelBP=35
+newmax level=133
+
+
+#i=132
+65271.9
+modelBP=5
+newmax level=134
+
+
+#i=133
+65280
+modelBP=5
+newmax level=135
+
+
+#i=134
+65287.6
+modelBP=7
+newmax level=136
+
+
+#i=135
+65294.9
+modelBP=39
+newmax level=137
+
+
+#i=136
+65302.1
+modelBP=76
+newmax level=138
+
+
+#i=137
+65308.7
+modelBP=15
+newmax level=139
+
+
+#i=138
+65315
+modelBP=2
+newmax level=140
+
+
+#i=139
+65321.2
+modelBP=58
+newmax level=141
+
+
+#i=140
+65326.9
+modelBP=42
+newmax level=142
+
+
+#i=141
+65331.7
+modelBP=56
+newmax level=143
+
+
+#i=142
+65336.4
+modelBP=159
+newmax level=144
+
+
+#i=143
+65340.8
+modelBP=9
+newmax level=145
+
+
+#i=144
+65345.4
+modelBP=5
+newmax level=146
+
+
+#i=145
+65349.9
+modelBP=10
+newmax level=147
+
+
+#i=146
+65354.2
+modelBP=10
+newmax level=148
+
+
+#i=147
+65358.5
+modelBP=10
+newmax level=149
+
+
+#i=148
+65360.3
+modelBP=156
+newmax level=150
+
+
+#i=149
+65365
+modelBP=55
+newmax level=151
+
+
+#i=150
+65369.3
+modelBP=166
+newmax level=152
+
+
+#i=151
+65372.4
+modelBP=37
+newmax level=153
+
+
+#i=152
+65376
+modelBP=91
+newmax level=154
+
+
+#i=153
+65380
+modelBP=91
+newmax level=155
+
+
+#i=154
+65383.2
+modelBP=109
+newmax level=156
+
+
+#i=155
+65387.9
+modelBP=109
+newmax level=157
+
+
+#i=156
+65391
+modelBP=4
+newmax level=158
+
+
+#i=157
+65392.3
+modelBP=158
+newmax level=159
+
+
+#i=158
+65397
+modelBP=158
+newmax level=160
+
+
+#i=159
+65400.7
+modelBP=158
+newmax level=161
+
+
+#i=160
+65401.4
+modelBP=84
+newmax level=162
+
+
+#i=161
+65404.9
+modelBP=84
+newmax level=163
+
+
+#i=162
+65407.1
+modelBP=84
+newmax level=164
+
+
+#i=163
+65408.1
+modelBP=106
+newmax level=165
+
+
+#i=164
+65409.8
+modelBP=193
+newmax level=166
+
+
+#i=165
+65412.4
+modelBP=189
+newmax level=167
+
+
+#i=166
+65415.1
+modelBP=140
+newmax level=168
+
+
+#i=167
+65417.4
+modelBP=194
+newmax level=169
+
+
+#i=168
+65416
+
+
+#i=169
+65419.1
+modelBP=30
+newmax level=171
+
+
+#i=170
+65422.1
+modelBP=30
+newmax level=172
+
+
+#i=171
+65424.1
+modelBP=76
+newmax level=173
+
+
+#i=172
+65426.3
+modelBP=121
+newmax level=174
+
+
+#i=173
+65428.2
+modelBP=5
+newmax level=175
+
+
+#i=174
+65430.2
+modelBP=50
+newmax level=176
+
+
+#i=175
+65433.2
+modelBP=40
+newmax level=177
+
+
+#i=176
+65434.3
+modelBP=83
+newmax level=178
+
+
+#i=177
+65436.5
+modelBP=83
+newmax level=179
+
+
+#i=178
+65439.4
+modelBP=83
+newmax level=180
+
+
+#i=179
+65441.7
+modelBP=69
+newmax level=181
+
+
+#i=180
+65451.5
+modelBP=5
+newmax level=182
+
+
+#i=181
+65456.4
+modelBP=154
+newmax level=183
+
+
+#i=182
+65458.4
+modelBP=5
+newmax level=184
+
+
+#i=183
+65459
+modelBP=73
+newmax level=185
+
+
+#i=184
+65462.1
+modelBP=69
+newmax level=186
+
+
+#i=185
+65464.2
+modelBP=61
+newmax level=187
+
+
+#i=186
+65466.2
+modelBP=61
+newmax level=188
+
+
+#i=187
+65466
+
+
+#i=188
+65467.2
+modelBP=106
+newmax level=190
+
+
+#i=189
+65468.9
+modelBP=89
+newmax level=191
+
+
+#i=190
+65470.8
+modelBP=199
+newmax level=192
+
+
+#i=191
+65472.6
+modelBP=183
+newmax level=193
+
+
+#i=192
+65473.3
+modelBP=107
+newmax level=194
+
+
+#i=193
+65473.5
+modelBP=178
+newmax level=195
+
+
+#i=194
+65475.3
+modelBP=19
+newmax level=196
+
+
+#i=195
+65476
+modelBP=178
+newmax level=197
+
+
+#i=196
+65477
+modelBP=197
+newmax level=198
+
+
+#i=197
+65479
+modelBP=197
+newmax level=199
+
+
+#i=198
+65478.4
+
+
+#i=199
+65479.4
+modelBP=7
+newmax level=201
+
+
+#i=200
+65481
+modelBP=24
+newmax level=202
+
+
+#i=201
+65483.3
+modelBP=24
+newmax level=203
+
+
+#i=202
+65485.5
+modelBP=24
+newmax level=204
+
+
+#i=203
+65485.5
+modelBP=24
+newmax level=205
+
+
+#i=204
+65487.7
+modelBP=95
+newmax level=206
+
+
+#i=205
+65489.7
+modelBP=95
+newmax level=207
+
+
+#i=206
+65490.5
+modelBP=95
+newmax level=208
+
+
+#i=207
+65491.1
+modelBP=74
+newmax level=209
+
+
+#i=208
+65490.4
+
+
+#i=209
+65491.6
+modelBP=21
+newmax level=211
+
+
+#i=210
+65492.7
+modelBP=66
+newmax level=212
+
+
+#i=211
+65493.1
+modelBP=66
+newmax level=213
+
+
+#i=212
+65495.2
+modelBP=138
+newmax level=214
+
+
+#i=213
+65494.7
+
+
+#i=214
+65494.6
+
+
+#i=215
+65494.2
+
+
+#i=216
+65495.3
+modelBP=182
+newmax level=218
+
+
+#i=217
+65494.8
+
+
+#i=218
+65496
+modelBP=182
+newmax level=220
+
+
+#i=219
+65497.6
+modelBP=122
+newmax level=221
+
+
+#i=220
+65491.4
+
+
+#i=221
+65491.5
+
+
+#i=222
+65493.3
+
+
+#i=223
+65493.1
+
+
+#i=224
+65493.8
+
+
+#i=225
+65493.1
+
+
+#i=226
+65493.8
+
+
+#i=227
+65495.6
+
+
+#i=228
+65493.7
+
+
+#i=229
+65494.3
+
+
+#i=230
+65495.3
+no improvement in 10 levels!
+SaveTree
+221 220
+size of Region_Node* = 8
+====== Bench Info ======
+Dimension = 2
+Data_num = 50000
+# of Partition = 200
+Best_Tree_index (modelBP): 51
+BspTree.List_index): 0
+BspTree.List_index_best): 0
+BspTree.Pts.size(): 200
+BspTree.P_bestlevel.PartitionsID: 122
+BspTree.BestPartID: -1732239918
+Pts[0]'s PartitionsID: 0
+3
+11
+10
+1
+1068
+396
+160
+121
+69
+0
+#Data = 50000
+====== Runtime (ms) ======
+Total Execution Time = 2.45 seconds
+50000
+beta = 1
+Dim 2
+
+
+#i=0
+1973.06
+modelBP=0
+newmax level=2
+
+
+#i=1
+15198.9
+modelBP=1
+newmax level=3
+
+
+#i=2
+24345.3
+modelBP=0
+newmax level=4
+
+
+#i=3
+29884.2
+modelBP=20
+newmax level=5
+
+
+#i=4
+38751.5
+modelBP=0
+newmax level=6
+
+
+#i=5
+41773.7
+modelBP=0
+newmax level=7
+
+
+#i=6
+44745.6
+modelBP=37
+newmax level=8
+
+
+#i=7
+48350.9
+modelBP=20
+newmax level=9
+
+
+#i=8
+51373.3
+modelBP=2
+newmax level=10
+
+
+#i=9
+52433.1
+modelBP=4
+newmax level=11
+
+
+#i=10
+53439.7
+modelBP=4
+newmax level=12
+
+
+#i=11
+54440.7
+modelBP=4
+newmax level=13
+
+
+#i=12
+55369.4
+modelBP=2
+newmax level=14
+
+
+#i=13
+56010.1
+modelBP=2
+newmax level=15
+
+
+#i=14
+56632.9
+modelBP=2
+newmax level=16
+
+
+#i=15
+57257.9
+modelBP=2
+newmax level=17
+
+
+#i=16
+57739.1
+modelBP=0
+newmax level=18
+
+
+#i=17
+58144.4
+modelBP=0
+newmax level=19
+
+
+#i=18
+58538.1
+modelBP=0
+newmax level=20
+
+
+#i=19
+58895.6
+modelBP=0
+newmax level=21
+
+
+#i=20
+59240.1
+modelBP=0
+newmax level=22
+
+
+#i=21
+59563.8
+modelBP=0
+newmax level=23
+
+
+#i=22
+59882
+modelBP=0
+newmax level=24
+
+
+#i=23
+60165.6
+modelBP=56
+newmax level=25
+
+
+#i=24
+60483.8
+modelBP=0
+newmax level=26
+
+
+#i=25
+60762.7
+modelBP=1
+newmax level=27
+
+
+#i=26
+61039.8
+modelBP=36
+newmax level=28
+
+
+#i=27
+61318.7
+modelBP=1
+newmax level=29
+
+
+#i=28
+61533.9
+modelBP=0
+newmax level=30
+
+
+#i=29
+61728
+modelBP=3
+newmax level=31
+
+
+#i=30
+61911.7
+modelBP=0
+newmax level=32
+
+
+#i=31
+62081
+modelBP=0
+newmax level=33
+
+
+#i=32
+62215.4
+modelBP=1
+newmax level=34
+
+
+#i=33
+62349.1
+modelBP=1
+newmax level=35
+
+
+#i=34
+62475.7
+modelBP=1
+newmax level=36
+
+
+#i=35
+62600.6
+modelBP=1
+newmax level=37
+
+
+#i=36
+62722.7
+modelBP=2
+newmax level=38
+
+
+#i=37
+62827.1
+modelBP=2
+newmax level=39
+
+
+#i=38
+62930.4
+modelBP=2
+newmax level=40
+
+
+#i=39
+63021.3
+modelBP=2
+newmax level=41
+
+
+#i=40
+63109.6
+modelBP=5
+newmax level=42
+
+
+#i=41
+63196.3
+modelBP=9
+newmax level=43
+
+
+#i=42
+63282.1
+modelBP=5
+newmax level=44
+
+
+#i=43
+63351
+modelBP=5
+newmax level=45
+
+
+#i=44
+63415.4
+modelBP=34
+newmax level=46
+
+
+#i=45
+63479.5
+modelBP=29
+newmax level=47
+
+
+#i=46
+63539.9
+modelBP=21
+newmax level=48
+
+
+#i=47
+63596.5
+modelBP=40
+newmax level=49
+
+
+#i=48
+63653
+modelBP=55
+newmax level=50
+
+
+#i=49
+63709.3
+modelBP=16
+newmax level=51
+
+
+#i=50
+63762.4
+modelBP=16
+newmax level=52
+
+
+#i=51
+63813.7
+modelBP=27
+newmax level=53
+
+
+#i=52
+63859.3
+modelBP=1
+newmax level=54
+
+
+#i=53
+63910.9
+modelBP=189
+newmax level=55
+
+
+#i=54
+63956.6
+modelBP=189
+newmax level=56
+
+
+#i=55
+63993.4
+modelBP=189
+newmax level=57
+
+
+#i=56
+64030
+modelBP=2
+newmax level=58
+
+
+#i=57
+64065.9
+modelBP=0
+newmax level=59
+
+
+#i=58
+64098.5
+modelBP=0
+newmax level=60
+
+
+#i=59
+64131
+modelBP=5
+newmax level=61
+
+
+#i=60
+64162.7
+modelBP=8
+newmax level=62
+
+
+#i=61
+64192.6
+modelBP=10
+newmax level=63
+
+
+#i=62
+64222.1
+modelBP=3
+newmax level=64
+
+
+#i=63
+64251.5
+modelBP=30
+newmax level=65
+
+
+#i=64
+64280.5
+modelBP=6
+newmax level=66
+
+
+#i=65
+64309.3
+modelBP=9
+newmax level=67
+
+
+#i=66
+64338
+modelBP=20
+newmax level=68
+
+
+#i=67
+64366.3
+modelBP=0
+newmax level=69
+
+
+#i=68
+64393.4
+modelBP=2
+newmax level=70
+
+
+#i=69
+64418.7
+modelBP=2
+newmax level=71
+
+
+#i=70
+64443.2
+modelBP=13
+newmax level=72
+
+
+#i=71
+64467.3
+modelBP=27
+newmax level=73
+
+
+#i=72
+64491
+modelBP=11
+newmax level=74
+
+
+#i=73
+64513.4
+modelBP=56
+newmax level=75
+
+
+#i=74
+64535.5
+modelBP=11
+newmax level=76
+
+
+#i=75
+64554.7
+modelBP=65
+newmax level=77
+
+
+#i=76
+64573.7
+modelBP=103
+newmax level=78
+
+
+#i=77
+64592.7
+modelBP=193
+newmax level=79
+
+
+#i=78
+64611.4
+modelBP=141
+newmax level=80
+
+
+#i=79
+64629.5
+modelBP=47
+newmax level=81
+
+
+#i=80
+64646
+modelBP=189
+newmax level=82
+
+
+#i=81
+64662.5
+modelBP=191
+newmax level=83
+
+
+#i=82
+64678.7
+modelBP=173
+newmax level=84
+
+
+#i=83
+64694.8
+modelBP=16
+newmax level=85
+
+
+#i=84
+64711
+modelBP=133
+newmax level=86
+
+
+#i=85
+64769.1
+modelBP=34
+newmax level=87
+
+
+#i=86
+64770.3
+modelBP=34
+newmax level=88
+
+
+#i=87
+64814
+modelBP=34
+newmax level=89
+
+
+#i=88
+64831.8
+modelBP=1
+newmax level=90
+
+
+#i=89
+64848.4
+modelBP=6
+newmax level=91
+
+
+#i=90
+64863.5
+modelBP=8
+newmax level=92
+
+
+#i=91
+64877.7
+modelBP=16
+newmax level=93
+
+
+#i=92
+64891.5
+modelBP=6
+newmax level=94
+
+
+#i=93
+64905.3
+modelBP=62
+newmax level=95
+
+
+#i=94
+64918.6
+modelBP=10
+newmax level=96
+
+
+#i=95
+64931.9
+modelBP=0
+newmax level=97
+
+
+#i=96
+64945
+modelBP=2
+newmax level=98
+
+
+#i=97
+64958.3
+modelBP=26
+newmax level=99
+
+
+#i=98
+64971.4
+modelBP=1
+newmax level=100
+
+
+#i=99
+64983.6
+modelBP=7
+newmax level=101
+
+
+#i=100
+64994.9
+modelBP=5
+newmax level=102
+
+
+#i=101
+65005.5
+modelBP=10
+newmax level=103
+
+
+#i=102
+65015.9
+modelBP=16
+newmax level=104
+
+
+#i=103
+65026.1
+modelBP=2
+newmax level=105
+
+
+#i=104
+65035.7
+modelBP=40
+newmax level=106
+
+
+#i=105
+65045.1
+modelBP=40
+newmax level=107
+
+
+#i=106
+65053.9
+modelBP=40
+newmax level=108
+
+
+#i=107
+65062.7
+modelBP=35
+newmax level=109
+
+
+#i=108
+65071.3
+modelBP=180
+newmax level=110
+
+
+#i=109
+65079.9
+modelBP=47
+newmax level=111
+
+
+#i=110
+65088.1
+modelBP=131
+newmax level=112
+
+
+#i=111
+65096.1
+modelBP=15
+newmax level=113
+
+
+#i=112
+65104
+modelBP=134
+newmax level=114
+
+
+#i=113
+65112.1
+modelBP=63
+newmax level=115
+
+
+#i=114
+65119.6
+modelBP=63
+newmax level=116
+
+
+#i=115
+65126.8
+modelBP=3
+newmax level=117
+
+
+#i=116
+65134
+modelBP=11
+newmax level=118
+
+
+#i=117
+65140.1
+modelBP=148
+newmax level=119
+
+
+#i=118
+65147
+modelBP=124
+newmax level=120
+
+
+#i=119
+65153.6
+modelBP=152
+newmax level=121
+
+
+#i=120
+65159.7
+modelBP=10
+newmax level=122
+
+
+#i=121
+65165.4
+modelBP=102
+newmax level=123
+
+
+#i=122
+65171.3
+modelBP=82
+newmax level=124
+
+
+#i=123
+65176.9
+modelBP=82
+newmax level=125
+
+
+#i=124
+65182.2
+modelBP=148
+newmax level=126
+
+
+#i=125
+65185.7
+modelBP=54
+newmax level=127
+
+
+#i=126
+65191.8
+modelBP=30
+newmax level=128
+
+
+#i=127
+65208.9
+modelBP=55
+newmax level=129
+
+
+#i=128
+65220.7
+modelBP=5
+newmax level=130
+
+
+#i=129
+65233.2
+modelBP=35
+newmax level=131
+
+
+#i=130
+65252
+modelBP=35
+newmax level=132
+
+
+#i=131
+65263.8
+modelBP=35
+newmax level=133
+
+
+#i=132
+65271.9
+modelBP=5
+newmax level=134
+
+
+#i=133
+65280
+modelBP=5
+newmax level=135
+
+
+#i=134
+65287.6
+modelBP=7
+newmax level=136
+
+
+#i=135
+65294.9
+modelBP=39
+newmax level=137
+
+
+#i=136
+65302.1
+modelBP=76
+newmax level=138
+
+
+#i=137
+65308.7
+modelBP=15
+newmax level=139
+
+
+#i=138
+65315
+modelBP=2
+newmax level=140
+
+
+#i=139
+65321.2
+modelBP=58
+newmax level=141
+
+
+#i=140
+65326.9
+modelBP=42
+newmax level=142
+
+
+#i=141
+65331.7
+modelBP=56
+newmax level=143
+
+
+#i=142
+65336.4
+modelBP=159
+newmax level=144
+
+
+#i=143
+65340.8
+modelBP=9
+newmax level=145
+
+
+#i=144
+65345.4
+modelBP=5
+newmax level=146
+
+
+#i=145
+65349.9
+modelBP=10
+newmax level=147
+
+
+#i=146
+65354.2
+modelBP=10
+newmax level=148
+
+
+#i=147
+65358.5
+modelBP=10
+newmax level=149
+
+
+#i=148
+65360.3
+modelBP=156
+newmax level=150
+
+
+#i=149
+65365
+modelBP=55
+newmax level=151
+
+
+#i=150
+65369.3
+modelBP=166
+newmax level=152
+
+
+#i=151
+65372.4
+modelBP=37
+newmax level=153
+
+
+#i=152
+65376
+modelBP=91
+newmax level=154
+
+
+#i=153
+65380
+modelBP=91
+newmax level=155
+
+
+#i=154
+65383.2
+modelBP=109
+newmax level=156
+
+
+#i=155
+65387.9
+modelBP=109
+newmax level=157
+
+
+#i=156
+65391
+modelBP=4
+newmax level=158
+
+
+#i=157
+65392.3
+modelBP=158
+newmax level=159
+
+
+#i=158
+65397
+modelBP=158
+newmax level=160
+
+
+#i=159
+65400.7
+modelBP=158
+newmax level=161
+
+
+#i=160
+65401.4
+modelBP=84
+newmax level=162
+
+
+#i=161
+65404.9
+modelBP=84
+newmax level=163
+
+
+#i=162
+65407.1
+modelBP=84
+newmax level=164
+
+
+#i=163
+65408.1
+modelBP=106
+newmax level=165
+
+
+#i=164
+65409.8
+modelBP=193
+newmax level=166
+
+
+#i=165
+65412.4
+modelBP=189
+newmax level=167
+
+
+#i=166
+65415.1
+modelBP=140
+newmax level=168
+
+
+#i=167
+65417.4
+modelBP=194
+newmax level=169
+
+
+#i=168
+65416
+
+
+#i=169
+65419.1
+modelBP=30
+newmax level=171
+
+
+#i=170
+65422.1
+modelBP=30
+newmax level=172
+
+
+#i=171
+65424.1
+modelBP=76
+newmax level=173
+
+
+#i=172
+65426.3
+modelBP=121
+newmax level=174
+
+
+#i=173
+65428.2
+modelBP=5
+newmax level=175
+
+
+#i=174
+65430.2
+modelBP=50
+newmax level=176
+
+
+#i=175
+65433.2
+modelBP=40
+newmax level=177
+
+
+#i=176
+65434.3
+modelBP=83
+newmax level=178
+
+
+#i=177
+65436.5
+modelBP=83
+newmax level=179
+
+
+#i=178
+65439.4
+modelBP=83
+newmax level=180
+
+
+#i=179
+65441.7
+modelBP=69
+newmax level=181
+
+
+#i=180
+65451.5
+modelBP=5
+newmax level=182
+
+
+#i=181
+65456.4
+modelBP=154
+newmax level=183
+
+
+#i=182
+65458.4
+modelBP=5
+newmax level=184
+
+
+#i=183
+65459
+modelBP=73
+newmax level=185
+
+
+#i=184
+65462.1
+modelBP=69
+newmax level=186
+
+
+#i=185
+65464.2
+modelBP=61
+newmax level=187
+
+
+#i=186
+65466.2
+modelBP=61
+newmax level=188
+
+
+#i=187
+65466
+
+
+#i=188
+65467.2
+modelBP=106
+newmax level=190
+
+
+#i=189
+65468.9
+modelBP=89
+newmax level=191
+
+
+#i=190
+65470.8
+modelBP=199
+newmax level=192
+
+
+#i=191
+65472.6
+modelBP=183
+newmax level=193
+
+
+#i=192
+65473.3
+modelBP=107
+newmax level=194
+
+
+#i=193
+65473.5
+modelBP=178
+newmax level=195
+
+
+#i=194
+65475.3
+modelBP=19
+newmax level=196
+
+
+#i=195
+65476
+modelBP=178
+newmax level=197
+
+
+#i=196
+65477
+modelBP=197
+newmax level=198
+
+
+#i=197
+65479
+modelBP=197
+newmax level=199
+
+
+#i=198
+65478.4
+
+
+#i=199
+65479.4
+modelBP=7
+newmax level=201
+
+
+#i=200
+65481
+modelBP=24
+newmax level=202
+
+
+#i=201
+65483.3
+modelBP=24
+newmax level=203
+
+
+#i=202
+65485.5
+modelBP=24
+newmax level=204
+
+
+#i=203
+65485.5
+modelBP=24
+newmax level=205
+
+
+#i=204
+65487.7
+modelBP=95
+newmax level=206
+
+
+#i=205
+65489.7
+modelBP=95
+newmax level=207
+
+
+#i=206
+65490.5
+modelBP=95
+newmax level=208
+
+
+#i=207
+65491.1
+modelBP=74
+newmax level=209
+
+
+#i=208
+65490.4
+
+
+#i=209
+65491.6
+modelBP=21
+newmax level=211
+
+
+#i=210
+65492.7
+modelBP=66
+newmax level=212
+
+
+#i=211
+65493.1
+modelBP=66
+newmax level=213
+
+
+#i=212
+65495.2
+modelBP=138
+newmax level=214
+
+
+#i=213
+65494.7
+
+
+#i=214
+65494.6
+
+
+#i=215
+65494.2
+
+
+#i=216
+65495.3
+modelBP=182
+newmax level=218
+
+
+#i=217
+65494.8
+
+
+#i=218
+65496
+modelBP=182
+newmax level=220
+
+
+#i=219
+65497.6
+modelBP=122
+newmax level=221
+
+
+#i=220
+65491.4
+
+
+#i=221
+65491.5
+
+
+#i=222
+65493.3
+
+
+#i=223
+65493.1
+
+
+#i=224
+65493.8
+
+
+#i=225
+65493.1
+
+
+#i=226
+65493.8
+
+
+#i=227
+65495.6
+
+
+#i=228
+65493.7
+
+
+#i=229
+65494.3
+
+
+#i=230
+65495.3
+no improvement in 10 levels!
+SaveTree
+221 220
+size of Region_Node* = 8
+====== Bench Info ======
+Dimension = 2
+Data_num = 50000
+# of Partition = 200
+Best_Tree_index (modelBP): 51
+BspTree.List_index): 0
+BspTree.List_index_best): 0
+BspTree.Pts.size(): 200
+BspTree.P_bestlevel.PartitionsID: 122
+BspTree.BestPartID: -1732239918
+Pts[0]'s PartitionsID: 0
+3
+11
+10
+1
+1068
+396
+160
+121
+69
+0
+#Data = 50000
+====== Runtime (ms) ======
+Total Execution Time = 2.44 seconds
