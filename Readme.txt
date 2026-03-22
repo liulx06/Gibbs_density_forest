@@ -1,3 +1,7 @@
+The Gibbs density forest code builds upon the Bayesian sequential partitioning (BSP, Lu, Jiang and Wong, JASA 2013) code developed and maintained by Prof. Wing Hung Wong’s Lab. The authors would like to thank Prof. Wong for sharing the BSP code with us.
+
+The code also depends on the C++ package "Eigen" (version 3.4.0; https://libeigen.gitlab.io)
+
 The code is complied using gcc version 10.2.0
 
 First, run 
